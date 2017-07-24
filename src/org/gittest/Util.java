@@ -6,6 +6,6 @@ package org.gittest;
 public class Util {
 
     public static final String NAME = "Util";
-    public static final String MESSAGE = "One more message";
+    public static final String MESSAGE = "New ressage";
 
 }
